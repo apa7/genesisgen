@@ -12,6 +12,10 @@ This program is based on "Remember remember the 5th of November"'s post [[ANN] G
 Usage
 =====
 
+```
+gcc genesis.c -o genesis -lcrypto
+```
+
 ```base
     $ make
     $ ./genesis
